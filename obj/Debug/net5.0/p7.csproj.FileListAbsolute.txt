@@ -1,0 +1,16 @@
+D:\c\JavaScript\inTransition\3task\p7\bin\Debug\net5.0\p7.exe
+D:\c\JavaScript\inTransition\3task\p7\bin\Debug\net5.0\p7.deps.json
+D:\c\JavaScript\inTransition\3task\p7\bin\Debug\net5.0\p7.runtimeconfig.json
+D:\c\JavaScript\inTransition\3task\p7\bin\Debug\net5.0\p7.runtimeconfig.dev.json
+D:\c\JavaScript\inTransition\3task\p7\bin\Debug\net5.0\p7.dll
+D:\c\JavaScript\inTransition\3task\p7\bin\Debug\net5.0\ref\p7.dll
+D:\c\JavaScript\inTransition\3task\p7\bin\Debug\net5.0\p7.pdb
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\p7.csproj.AssemblyReference.cache
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\p7.GeneratedMSBuildEditorConfig.editorconfig
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\p7.AssemblyInfoInputs.cache
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\p7.AssemblyInfo.cs
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\p7.csproj.CoreCompileInputs.cache
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\p7.dll
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\ref\p7.dll
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\p7.pdb
+D:\c\JavaScript\inTransition\3task\p7\obj\Debug\net5.0\p7.genruntimeconfig.cache
